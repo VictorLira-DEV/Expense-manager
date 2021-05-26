@@ -9,6 +9,7 @@ function NewExpense(props) {
       ...enteredExpenseData,
       id: Math.random().toString()
     };
+    
     props.onAddExpanse(expenseData)
     setIsEditing(false);
   };

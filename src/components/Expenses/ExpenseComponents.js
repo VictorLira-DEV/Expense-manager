@@ -1,4 +1,3 @@
-import ExpenseItem from "./ExpenseItem";
 import ExpensesFilter from "./ExpensesFilter";
 import styles from "./ExpenseComponents.module.css";
 import Card from "../UI/Card";
@@ -6,7 +5,7 @@ import { useState } from "react";
 import ExpensesList from "./ExpenseList";
 
 function ExpenseComponents(props) {
-  const [filteredYear, setFilterChangeHandler] = useState("2020");
+  const [filteredYear, setFilterChangeHandler] = useState("2010");
 
   const filterChangeHandler = function (selectedYear) {
     setFilterChangeHandler(selectedYear);
