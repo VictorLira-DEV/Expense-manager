@@ -1,15 +1,15 @@
-import React from 'react';
-import ExpenseItem from './ExpenseItem';
-import './ExpenseList.css';
+import React from "react";
+import ExpenseItem from "./ExpenseItem";
+import "./ExpenseList.css";
 
-const ExpensesList = props => {
-  
-    if (props.item.length === 0) {
-        return <h2 className="expenses-list__fallback">Found no expenses.</h2>
-    }
+const ExpensesList = (props) => {
+  if (props.item.length === 0) {
+    return <h2 className="expenses-list__fallback">Found no expenses.</h2>;
+  }
 
-    return <ul className="expenses-list">
-        {props.item.map((expense) => (
+  return (
+    <ul className="expenses-list">
+      {props.item.map((expense) => (
         <ExpenseItem
           key={expense.id}
           title={expense.title}
@@ -18,6 +18,7 @@ const ExpensesList = props => {
         />
       ))}
     </ul>
+  );
 };
 
-export default ExpensesList
+export default ExpensesList;
