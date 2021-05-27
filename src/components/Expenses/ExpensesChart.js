@@ -5,7 +5,7 @@ const ExpensesChart = (props) => {
   const chartDataPoints = [
     { label: "Jan", value: 0 },
     { label: "Feb", value: 0 },
-    { label: "Mar", value: 50 },
+    { label: "Mar", value: 0 },
     { label: "Abr", value: 0 },
     { label: "May", value: 0 },
     { label: "Jun", value: 0 },
