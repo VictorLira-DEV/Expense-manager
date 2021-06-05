@@ -1,4 +1,4 @@
 <h1 align="center">
-  <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large_ilj1EEYLH.gif" alt="Logo do Podcastr" >
+  <img src="https://ik.imagekit.io/mcvhbcq4zu/expenses_X367b1w4o.gif" alt="Logo do Podcastr" >
 </h1>
 
