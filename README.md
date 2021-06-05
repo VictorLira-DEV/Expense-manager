@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./public/logo.svg" alt="Logo do Podcastr" width="250">
+  <img src="https://ik.imagekit.io/mcvhbcq4zu/Animated_GIF-downsized_large_ilj1EEYLH.gif" alt="Logo do Podcastr" width="250">
 </h1>
 
 ## **<h2 align="center">[Front end application](https://podcastr-mathwcruz.vercel.app/)  💻</h2>**
