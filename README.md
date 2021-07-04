@@ -43,4 +43,11 @@ To run the application on the web, follow the instructions :
 - After that, run `yarn start` to run the application, will open at the address `localhost:3000`
 <br>
 
+## About
+
+this project was developed in React course
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+Created by **Maximilian Schwarzmuller** <br>
+Developed by **Victor Lira**
 
