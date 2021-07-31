@@ -1,0 +1,31 @@
+.expenses-filter {
+  color: white;
+  padding: 0 1rem;
+}
+
+.expenses-filter .expenses-filter__control {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.expenses-filter .expenses-filter__control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.expenses-filter .expenses-filter__control select {
+  font: inherit;
+  padding: 0.5rem 3rem;
+  font-weight: bold;
+  border-radius: 6px;
+}
+/*# sourceMappingURL=ExpensesFilter.module.css.map */

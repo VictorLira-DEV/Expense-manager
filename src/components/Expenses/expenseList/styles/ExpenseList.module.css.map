@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACX,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,wBAAwB,CAAC;EACrB,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "ExpenseList.module.scss"
+    ],
+    "names": [],
+    "file": "ExpenseList.module.css"
+}

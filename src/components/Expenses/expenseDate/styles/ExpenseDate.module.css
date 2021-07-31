@@ -1,0 +1,36 @@
+.expense_date {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 5.5rem;
+  height: 5.5rem;
+  border: 1px solid #ececec;
+  background-color: #2a2a2a;
+  color: white;
+  border-radius: 12px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.expense_date .expense_date__month {
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.expense_date .expense_date__year {
+  font-size: 0.75rem;
+}
+
+.expense_date .expense_date__day {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+/*# sourceMappingURL=ExpenseDate.module.css.map */

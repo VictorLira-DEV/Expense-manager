@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,OAAe;EACjC,MAAM,EAAE,SAAS;EACjB,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,GAAG;CACjB",
+    "sources": [
+        "ExpenseComponent.module.scss"
+    ],
+    "names": [],
+    "file": "ExpenseComponent.module.css"
+}
